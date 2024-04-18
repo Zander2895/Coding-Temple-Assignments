@@ -1,4 +1,8 @@
 #Swap the values
-value = 6 == 4
+alpha = 6
+beta = 4
 
-print(value)
+alpha, beta = beta, alpha
+
+print(alpha)
+print(beta)
