@@ -1,11 +1,11 @@
 #Calculte the value of a arithmetic expression twice
-life = 8 - 6 * 4
-life_two = (8 - 6 * 4)
+neutron = 8 - 6 * 4
+radical_two = (8 - 6 * 4)
 
-print(life)
-print(life_two)
+print(neutron)
+print(radical_two)
 
 #Combine arithmetic, logical, and comparison operators
-life_three = 86 + 20 or 26 > 42
+lambda_three = 86 + 20 or 26 > 42
 
-print(life_three)
+print(lambda_three)

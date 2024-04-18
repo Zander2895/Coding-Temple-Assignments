@@ -1,8 +1,8 @@
 #Swap the values
-alpha = 6
-beta = 4
+bali = 6
+cancun = 4
 
-alpha, beta = beta, alpha
+cancun, bali = bali, cancun
 
-print(alpha)
-print(beta)
+print(bali)
+print(cancun)
