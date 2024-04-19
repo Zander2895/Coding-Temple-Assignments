@@ -1,10 +1,10 @@
 #Calculate the total cost of three items
-grocery_expense = 4.25+6.52+6.98 
+variable_grocery_expense = 4.25 + 6.52 +  6.98 
 
-print(grocery_expense)
+print(variable_grocery_expense)
 
 #Calculate bank interest
-bank_interest = 10000 * 0.07
-bank_account_amount = 10000 + bank_interest 
+variable_bank_interest = 10000 * 0.07
+variable_bank_account_amount = 10000 + variable_bank_interest 
 
-print(bank_account_amount)
+print(variable_bank_account_amount)
