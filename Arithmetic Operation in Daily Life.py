@@ -1,5 +1,7 @@
-#Calculate the total cost of three items
-variable_grocery_expense = 4.25 + 6.52 +  6.98 
+bread = 4.25
+peanutbutter = 6.52
+jelly = 6.98
+variable_grocery_expense = bread + peanutbutter +  jelly 
 
 print(variable_grocery_expense)
 
